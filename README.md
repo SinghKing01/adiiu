@@ -27,3 +27,4 @@ la fuente de datos. Puede agregar otros enlaces si lo desea.
 ###### 6. Ahora ya podemos abrir la página web con datos cargados del servidor local de BD: http://localhost/adiiu/
 
 
+![image info](./assets/img/cabin.png)
