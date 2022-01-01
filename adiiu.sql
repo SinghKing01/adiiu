@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jan 01, 2022 at 01:49 PM
+-- Generation Time: Jan 01, 2022 at 06:29 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.2.31
 
@@ -42,29 +42,6 @@ INSERT INTO `Banana` (`Nutrients`, `Grams`) VALUES
 ('Protein', 1.1),
 ('Sugars', 12),
 ('Total Fat', 0.3);
-
--- --------------------------------------------------------
-
---
--- Table structure for table `Navegador`
---
-
-CREATE TABLE `Navegador` (
-  `Navegador` varchar(20) NOT NULL,
-  `Usuarios` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Dumping data for table `Navegador`
---
-
-INSERT INTO `Navegador` (`Navegador`, `Usuarios`) VALUES
-('Chrome', 73),
-('Edge', 9),
-('Firefox', 8),
-('Opera', 3),
-('Others', 3),
-('Safari', 10);
 
 -- --------------------------------------------------------
 
@@ -128,12 +105,6 @@ INSERT INTO `Ventas` (`Mes`, `Ventas`, `Gastos`) VALUES
 --
 ALTER TABLE `Banana`
   ADD PRIMARY KEY (`Nutrients`);
-
---
--- Indexes for table `Navegador`
---
-ALTER TABLE `Navegador`
-  ADD PRIMARY KEY (`Navegador`);
 
 --
 -- Indexes for table `Population`

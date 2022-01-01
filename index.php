@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
       <meta name="description" content="" />
       <meta name="author" content="" />
-      <title>Freelancer - Start Bootstrap Theme</title>
+      <title>University Dashboard</title>
       <!-- Favicon-->
       <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
       <!-- Font Awesome icons (free version)-->
@@ -107,7 +107,7 @@
                </div>
                <!-- Footer Social Icons-->
                <div class="col-lg-4 mb-5 mb-lg-0">
-                  <h4 class="text-uppercase mb-4">Around the Web</h4>
+                  <h4 class="text-uppercase mb-4">Redes Sociales</h4>
                   <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
                      class="fab fa-fw fa-facebook-f"></i></a>
                   <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
@@ -381,7 +381,6 @@
                      }
                  }]
              }
-         
          });
       </script>
    </body>
