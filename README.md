@@ -30,12 +30,3 @@ la fuente de datos. Puede agregar otros enlaces si lo desea.
 ###### 4. Crear una BD, por ejemplo, con nombre adiiu.
 ###### 5. Importar en phpMyAdmin el archivo https://github.com/SinghKing99/adiiu/blob/main/adiiu.sql (está dentro del repositorio descargado) para copiar la BD en el servidor local.
 ###### 6. Ahora ya podemos abrir la página web con datos cargados del servidor local de BD: http://localhost/adiiu/
-
-## Capturas Sitio Web:
-###### 1. /assets/img/img1.png
-###### 2. /assets/img/img2.png
-###### 3. /assets/img/img3.png
-###### 4. /assets/img/img4.png
-###### 5. /assets/img/img5.png
-
-
