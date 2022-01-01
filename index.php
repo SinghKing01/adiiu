@@ -311,19 +311,18 @@
                  text: 'Comparisión Ventas-Gastos EmpresaX'
              },
          
-             subtitle: {
-                 text: 'Source: thesolarfoundation.com'
-             },
-         
              yAxis: {
                  title: {
-                     text: 'Number of Employees'
+                     text: 'Cantidad en Euros'
                  }
              },
          
              xAxis: {
+                title: {
+                     text: 'Mes del año'
+                 },
                  accessibility: {
-                     rangeDescription: 'Range: 2010 to 2017'
+                     rangeDescription: 'Range: 1 to 12'
                  }
              },
          
@@ -338,7 +337,7 @@
                      label: {
                          connectorAllowed: false
                      },
-                     pointStart: 2010
+                     pointStart: 1
                  }
              },
          
