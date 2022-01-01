@@ -27,6 +27,10 @@ la fuente de datos. Puede agregar otros enlaces si lo desea.
 ###### 6. Ahora ya podemos abrir la página web con datos cargados del servidor local de BD: http://localhost/adiiu/
 
 ## Capturas Sitio Web:
-
+/assets/img/img1.png
+/assets/img/img2.png
+/assets/img/img3.png
+/assets/img/img4.png
+/assets/img/img5.png
 
 
