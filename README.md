@@ -1,4 +1,9 @@
 # Práctica Dashboard ADIIU
+
+### Índices:
+- Enunciado de la práctica
+- Pasos a seguir
+
 ### Enunciado de la práctica:
 _La práctica consiste en crear un panel de datos (Data Dashboard). Este panel
 cogería los datos de una base de datos de su elección en PhPMyAdmin, Xampp. Es un ejemplo de
