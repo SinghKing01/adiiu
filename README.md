@@ -19,7 +19,7 @@ la fuente de datos. Puede agregar otros enlaces si lo desea.
  - Mínimo tres visualizaciones con Highcharts y/o highmaps.
 
 ### PASOS A SEGUIR
-###### 1. Descargar este repositorio y guardarlo en la carpeta htdocs del servidor XAMPP o MAMP.
+###### 1. Descargar este repositorio y guardarlo en el directorio "htdocs" del servidor XAMPP o MAMP.
 ###### 2. Iniciar MySQL en el servidor.
 ###### 3. Abrir http://localhost/phpmyadmin/
 ###### 4. Crear una BD, por ejemplo, con nombre adiiu.
